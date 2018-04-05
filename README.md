@@ -1,1 +1,2 @@
 # School-Related-Work
+The information contained in this repository is my own work for classes taken at Farmingdale State College during my time as an undergraduate student. As such I post this publically for all to see, but in cases in which this code may be used to violate academic integrity policies I DO NOT CONDON NOR ALLOW any code to be taken from here and passed off as someone else's work. I do not condone plagiarism.
